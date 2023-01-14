@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97707c2e-72bb-4b82-bd4e-88276338e8b7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="97707c2e-72bb-4b82-bd4e-88276338e8b7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +42,7 @@
       <recent name="C:\Users\user\DietelChapter17\src\main\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BiConsumer" />
       <recent name="Chapter17Practice3" />
     </key>
   </component>
@@ -55,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673635060379</updated>
-      <workItem from="1673635062325" duration="3707000" />
+      <workItem from="1673635062325" duration="4018000" />
     </task>
     <servers />
   </component>
