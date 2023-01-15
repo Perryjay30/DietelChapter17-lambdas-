@@ -19,7 +19,7 @@ public class PracticeEight {
                 .map((women) -> map.put(women.getName(), women.getAge()))
                 .forEach(System.out::println);
 
-        System.out.println(map);
+//        System.out.println(map);
 
 
 

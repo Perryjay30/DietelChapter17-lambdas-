@@ -16,6 +16,6 @@ public class PredicateSample {
                 new Person("Wayne", 30)
         );
 
-        people.stream().filter((person -> person.getAge() <= 30)).forEach(person -> System.out.println(person));
+        people.stream().filter((person -> person.getAge() >= 30)).forEach(System.out::println);
     }
 }
